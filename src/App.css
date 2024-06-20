@@ -456,12 +456,26 @@
 }
 
 .topRightIcon {
-  margin:-90px;
-  padding-left: 320px;
+  margin:-200px;
+  padding-left: 420px;
   color: #000;
   font-weight: 500;
 }
 .topRightIcon svg{
   opacity: 0.2;
   font-size: 30px;
+}
+.bottomLeftText{
+  margin-left:-120px;
+  color: #fff; /* Change the color if needed */
+  font-size: 16px; /* Adjust the font size as needed */
+  font-weight: 500;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 40px;
+}
+.bottomRightIcon{
+  margin-top:290px;
+  padding-left: 230px;
+  color: #000;
+  font-weight: 500;
 }
